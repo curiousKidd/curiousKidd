@@ -22,6 +22,9 @@
   [tistory](https://curiouskidd.tistory.com/)
   
   <br /><br />
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
   
   ### :sparkles: Tech Stack 
   <div class="stack">
