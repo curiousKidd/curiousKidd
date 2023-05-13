@@ -15,13 +15,13 @@
 <div align="center">
  
   #### 안녕하세요! 👋
-  풀스택 개발자를 꿈꾸는 남건우입니다.
-  <br /><br />
+  상상을 즐기는 개발자를 남건우입니다.
+  <br />
   
   #### blog
   [tistory](https://curiouskidd.tistory.com/)
   
-  <br /><br />
+  <br />
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2058%20mins-blue)
@@ -58,20 +58,20 @@ Mac                      1 hr 58 mins        ███████████�
  Last Updated on 12/05/2023 18:37:41 UTC
 <!--END_SECTION:waka-->
   
-  ### :sparkles: Tech Stack 
-  <div class="stack">
-    <p>
-      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-      <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-      <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue-dot-js&logoColor=white"/></a>&nbsp
-      <img src="https://img.shields.io/badge/Gradle-6799FF?style=flat-square&logo=Gradle&logoColor=white"/></a>&nbsp 
-      <img src="https://img.shields.io/badge/Oracle-DB3552?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
-      <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-      <img src="https://img.shields.io/badge/html-d14836?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>
-    </p>
-  </div> 
+<!--   ### :sparkles: Tech Stack  -->
+<!--   <div class="stack"> -->
+<!--     <p> -->
+<!--       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp  -->
+<!--       <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp  -->
+<!--       <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp  -->
+<!--       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue-dot-js&logoColor=white"/></a>&nbsp -->
+<!--       <img src="https://img.shields.io/badge/Gradle-6799FF?style=flat-square&logo=Gradle&logoColor=white"/></a>&nbsp  -->
+<!--       <img src="https://img.shields.io/badge/Oracle-DB3552?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp  -->
+<!--       <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp  -->
+<!--       <img src="https://img.shields.io/badge/html-d14836?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp  -->
+<!--       <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a> -->
+<!--     </p> -->
+<!--   </div>  -->
  
   ![curiousKidd's github stats](https://github-readme-stats.vercel.app/api?username=curiousKidd&show_icons=true&theme=chartreuse-dark)
 </div>
