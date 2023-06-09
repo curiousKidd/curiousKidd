@@ -72,6 +72,6 @@ Mac                      0 secs              ███████████�
 <!--     </p> -->
 <!--   </div>  -->
  
-  ![curiousKidd's github stats](https://github-readme-stats.vercel.app/api?username=curiousKidd&show_icons=true&theme=chartreuse-dark)
+<!--   ![curiousKidd's github stats](https://github-readme-stats.vercel.app/api?username=curiousKidd&show_icons=true&theme=chartreuse-dark) -->
 </div>
 
