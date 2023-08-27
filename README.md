@@ -44,17 +44,17 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Java                     9 mins              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-IntelliJ                 9 mins              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 💻 운영 체제들: 
-Windows                  9 mins              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 
- Last Updated on 26/08/2023 18:37:49 UTC
+ Last Updated on 27/08/2023 18:37:53 UTC
 <!--END_SECTION:waka-->
   
 <!--   ### :sparkles: Tech Stack  -->
