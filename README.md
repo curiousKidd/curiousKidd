@@ -60,21 +60,23 @@ Mac                      1 hr                ███████████�
 
  Last Updated on 06/04/2024 18:37:52 UTC
 <!--END_SECTION:waka-->
-  
+
+============================================================================
+    
 <!--   ### :sparkles: Tech Stack  -->
-<!--   <div class="stack"> -->
-<!--     <p> -->
-<!--       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp  -->
-<!--       <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp  -->
-<!--       <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp  -->
-<!--       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue-dot-js&logoColor=white"/></a>&nbsp -->
-<!--       <img src="https://img.shields.io/badge/Gradle-6799FF?style=flat-square&logo=Gradle&logoColor=white"/></a>&nbsp  -->
-<!--       <img src="https://img.shields.io/badge/Oracle-DB3552?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp  -->
-<!--       <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp  -->
-<!--       <img src="https://img.shields.io/badge/html-d14836?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp  -->
-<!--       <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a> -->
-<!--     </p> -->
-<!--   </div>  -->
+<div class="stack"> 
+     <p> 
+       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp  
+       <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp  
+       <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp  
+       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue-dot-js&logoColor=white"/></a>&nbsp 
+       <img src="https://img.shields.io/badge/Gradle-6799FF?style=flat-square&logo=Gradle&logoColor=white"/></a>&nbsp  
+       <img src="https://img.shields.io/badge/Oracle-DB3552?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp  
+       <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp  
+       <img src="https://img.shields.io/badge/html-d14836?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp  
+       <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a> 
+     </p> 
+   </div>  
  
 <!--   ![curiousKidd's github stats](https://github-readme-stats.vercel.app/api?username=curiousKidd&show_icons=true&theme=chartreuse-dark) -->
 </div>
