@@ -24,7 +24,7 @@
   <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-848%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-848%20hrs%2042%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-10.18%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -44,22 +44,22 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-JavaScript               1 hr 4 mins         ████████████░░░░░░░░░░░░░   47.78 % 
-YAML                     28 mins             █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-textmate                 25 mins             █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
-Markdown                 15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Markdown                 2 hrs 2 mins        ███████████████░░░░░░░░░░   60.11 % 
+YAML                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+JavaScript               27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+textmate                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Kotlin                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 
 🔥 에디터들: 
-WebStorm                 2 hrs 5 mins        ███████████████████████░░   93.04 % 
-IntelliJ IDEA            9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+IntelliJ IDEA            2 hrs 5 mins        ███████████████░░░░░░░░░░   61.53 % 
+WebStorm                 1 hr 18 mins        ██████████░░░░░░░░░░░░░░░   38.47 % 
 
 💻 운영 체제들: 
-Mac                      2 hrs 15 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/03/2026 19:21:59 UTC
+ Last Updated on 05/03/2026 19:44:05 UTC
 <!--END_SECTION:waka-->
 
 ============================================================================
