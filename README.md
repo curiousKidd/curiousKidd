@@ -24,17 +24,17 @@
   <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-865%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-866%20hrs%2011%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-10.20%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-🌆 낮　                     100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-🌃 저녁                     583 commits         ███████████████████░░░░░░   76.21 % 
-🌙 밤　                     57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+🌞 아침                     25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+🌆 낮　                     103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+🌃 저녁                     583 commits         ███████████████████░░░░░░   75.91 % 
+🌙 밤　                     57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
 ```
 
 
@@ -44,21 +44,21 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Go                       1 hr 17 mins        ████████░░░░░░░░░░░░░░░░░   33.32 % 
-TypeScript               44 mins             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-JavaScript               44 mins             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-Markdown                 34 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Other                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Go                       2 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   33.98 % 
+JavaScript               1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+TypeScript               1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+Markdown                 58 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+Other                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
 
 🔥 에디터들: 
-WebStorm                 3 hrs 52 mins       █████████████████████████   100.00 % 
+WebStorm                 6 hrs 7 mins        █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Mac                      3 hrs 52 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/04/2026 19:49:44 UTC
+ Last Updated on 15/04/2026 19:49:45 UTC
 <!--END_SECTION:waka-->
 
 ============================================================================
