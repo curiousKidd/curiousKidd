@@ -24,6 +24,8 @@
   <br />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-925%20hrs%208%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-10.20%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 저녁형 인간이에요. 🦉** 
@@ -42,23 +44,23 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-JavaScript               3 hrs 39 mins       ████████████░░░░░░░░░░░░░   49.01 % 
-Go                       2 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   39.13 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-TOML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+JavaScript               3 hrs 26 mins       █████████████░░░░░░░░░░░░   50.44 % 
+Go                       2 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   34.76 % 
+TOML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 
 🔥 에디터들: 
-Claude Code              4 hrs 58 mins       █████████████████░░░░░░░░   66.66 % 
-WebStorm                 2 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   32.87 % 
-IntelliJ IDEA            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Claude Code              4 hrs 23 mins       ████████████████░░░░░░░░░   64.48 % 
+WebStorm                 2 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   35.01 % 
+IntelliJ IDEA            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 💻 운영 체제들: 
-Mac                      7 hrs 27 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/06/2026 19:56:12 UTC
+ Last Updated on 08/06/2026 20:40:45 UTC
 <!--END_SECTION:waka-->
 
 ============================================================================
