@@ -46,46 +46,46 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Go                       4 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   29.30 % 
-JavaScript               3 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
-YAML                     1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-JSON                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-Java                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+Go                       4 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   29.52 % 
+JavaScript               3 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
+YAML                     1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+JSON                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Java                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
 
 🔥 에디터들: 
-WebStorm                 7 hrs 7 mins        ███████████░░░░░░░░░░░░░░   45.00 % 
-Claude Code              6 hrs 43 mins       ███████████░░░░░░░░░░░░░░   42.53 % 
-IntelliJ IDEA            1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+WebStorm                 7 hrs 7 mins        ███████████░░░░░░░░░░░░░░   45.34 % 
+Claude Code              6 hrs 36 mins       ███████████░░░░░░░░░░░░░░   42.09 % 
+IntelliJ IDEA            1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
 
 💻 운영 체제들: 
-Mac                      15 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 37 mins (54.48%)
+⏱ AI Coding Time: 8 hrs 29 mins (54.13%)
 
 ✍️ 409 lines written by AI, 6 lines written by hand (98.55% AI-written)
 
-🔤 55,890,274 Input Tokens, 219,261 Output Tokens
+🔤 55,103,142 Input Tokens, 215,717 Output Tokens
 
-💵 $148.59 Estimated AI Cost This Week
+💵 $147.66 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 152 AI Prompts
+🧠 21 AI Sessions, 130 AI Prompts
 
 Sonnet                   297 lines           █████████████████░░░░░░░░   69.39 % 
 Fable                    131 lines           ████████░░░░░░░░░░░░░░░░░   30.61 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 98.55% of written lines came from AI
-📄 Detailed Prompter — average 1,085 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📄 Detailed Prompter — average 1,219 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 1.38% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/08/2026 19:08:55 UTC
+ Last Updated on 09/08/2026 19:12:25 UTC
 <!--END_SECTION:waka-->
 
 ============================================================================
