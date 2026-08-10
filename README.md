@@ -46,46 +46,46 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Go                       4 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   29.52 % 
-JavaScript               3 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
-YAML                     1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-JSON                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-Java                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Go                       6 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   31.64 % 
+JavaScript               4 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
+YAML                     2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+JSON                     1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+Java                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
 
 🔥 에디터들: 
-WebStorm                 7 hrs 7 mins        ███████████░░░░░░░░░░░░░░   45.34 % 
-Claude Code              6 hrs 36 mins       ███████████░░░░░░░░░░░░░░   42.09 % 
-IntelliJ IDEA            1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+WebStorm                 8 hrs 39 mins       ███████████░░░░░░░░░░░░░░   45.18 % 
+Claude Code              8 hrs 12 mins       ███████████░░░░░░░░░░░░░░   42.84 % 
+IntelliJ IDEA            2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
 
 💻 운영 체제들: 
-Mac                      15 hrs 42 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 29 mins (54.13%)
+⏱ AI Coding Time: 10 hrs 53 mins (56.79%)
 
-✍️ 409 lines written by AI, 6 lines written by hand (98.55% AI-written)
+✍️ 586 lines written by AI, 68 lines written by hand (89.6% AI-written)
 
-🔤 55,103,142 Input Tokens, 215,717 Output Tokens
+🔤 55,346,253 Input Tokens, 287,167 Output Tokens
 
-💵 $147.66 Estimated AI Cost This Week
+💵 $155.02 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 130 AI Prompts
+🧠 26 AI Sessions, 181 AI Prompts
 
-Sonnet                   297 lines           █████████████████░░░░░░░░   69.39 % 
-Fable                    131 lines           ████████░░░░░░░░░░░░░░░░░   30.61 % 
+Sonnet                   481 lines           ████████████████████░░░░░   78.59 % 
+Fable                    131 lines           █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.55% of written lines came from AI
-📄 Detailed Prompter — average 1,219 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 1.38% of changed lines were hand-edited
+🤖 AI-Driven — 89.6% of written lines came from AI
+📄 Detailed Prompter — average 1,033 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 10.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/08/2026 19:12:25 UTC
+ Last Updated on 10/08/2026 19:32:45 UTC
 <!--END_SECTION:waka-->
 
 ============================================================================
