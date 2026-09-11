@@ -24,9 +24,9 @@
   <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C087%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C091%20hrs%2027%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-182%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-185%20hrs%2017%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-10.23%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -46,49 +46,49 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 3 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-Java                     2 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-Python                   1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-TypeScript               59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-YAML                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+Markdown                 3 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   28.03 % 
+Java                     2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+Python                   1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+TypeScript               59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+YAML                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
 
 🔥 에디터들: 
-Claude Code              5 hrs 30 mins       ███████████░░░░░░░░░░░░░░   44.43 % 
-IntelliJ IDEA            5 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   41.36 % 
-WebStorm                 1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Codex CLI                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-Codex Vscode             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+IntelliJ IDEA            5 hrs 12 mins       ███████████░░░░░░░░░░░░░░   43.02 % 
+Claude Code              5 hrs 11 mins       ███████████░░░░░░░░░░░░░░   42.97 % 
+WebStorm                 1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+Codex CLI                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Codex Vscode             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 💻 운영 체제들: 
-Mac                      12 hrs 24 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 43 mins (54.27%)
+⏱ AI Coding Time: 6 hrs 21 mins (52.62%)
 
-✍️ 23,353 lines written by AI, 60 lines written by hand (99.74% AI-written)
+✍️ 23,287 lines written by AI, 60 lines written by hand (99.74% AI-written)
 
-🔤 7,229,904 Input Tokens, 330,255 Output Tokens
+🔤 6,764,131 Input Tokens, 314,867 Output Tokens
 
-💵 $97.91 Estimated AI Cost This Week
+💵 $95.50 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 98 AI Prompts
+🧠 20 AI Sessions, 87 AI Prompts
 
-Opus                     20,244 lines        ██████████████████████░░░   86.55 % 
-Sonnet                   3,110 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Opus                     20,244 lines        ██████████████████████░░░   86.79 % 
+Sonnet                   3,044 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
 GPT                      37 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.74% of written lines came from AI
-📚 Verbose Prompter — average 1,514 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📚 Verbose Prompter — average 1,701 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.26% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/09/2026 21:06:59 UTC
+ Last Updated on 11/09/2026 21:11:39 UTC
 <!--END_SECTION:waka-->
 
 ============================================================================
