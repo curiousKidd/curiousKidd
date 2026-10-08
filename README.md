@@ -46,46 +46,23 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 9 mins              ████████████░░░░░░░░░░░░░   49.46 % 
-Text                     8 mins              ███████████░░░░░░░░░░░░░░   43.82 % 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-Vue                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-Claude Code              15 mins             █████████████████████░░░░   83.25 % 
-Codex Exec               3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+이번 주에 활동은 없어요.
 
 💻 운영 체제들: 
-Mac                      18 mins             █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 mins (100.0%)
-
-✍️ 197 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 416,800 Input Tokens, 24,261 Output Tokens
-
-💵 $1.67 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 7 AI Prompts
-
-Sonnet                   157 lines           ████████████████████░░░░░   79.70 % 
-GPT                      40 lines            █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,352 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 07/10/2026 23:16:19 UTC
+ Last Updated on 08/10/2026 23:31:35 UTC
 <!--END_SECTION:waka-->
 
 ============================================================================
