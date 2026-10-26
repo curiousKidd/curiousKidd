@@ -46,39 +46,43 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Other                    2 mins              █████████████████████████   100.00 % 
+Markdown                 31 mins             ██████████░░░░░░░░░░░░░░░   41.13 % 
+Other                    27 mins             █████████░░░░░░░░░░░░░░░░   36.00 % 
+Python                   15 mins             █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 에디터들: 
-Claude Code              2 mins              █████████████████████████   100.00 % 
+Claude Code              1 hr 15 mins        █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+Mac                      1 hr 15 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (100.0%)
+⏱ AI Coding Time: 1 hr 15 mins (100.0%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 64 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 92,152 Input Tokens, 2,498 Output Tokens
+🔤 529,182 Input Tokens, 34,398 Output Tokens
 
-💵 $0.32 Estimated AI Cost This Week
+💵 $2.66 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 6 AI Prompts
+🧠 7 AI Sessions, 27 AI Prompts
 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   64 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 1,927 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,418 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/10/2026 21:08:25 UTC
+ Last Updated on 26/10/2026 22:50:37 UTC
 <!--END_SECTION:waka-->
 
 ============================================================================
