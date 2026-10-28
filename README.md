@@ -46,39 +46,39 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Other                    25 mins             █████████████████████████   100.00 % 
+Other                    2 mins              █████████████████████████   100.00 % 
 
 🔥 에디터들: 
-Claude Code              25 mins             █████████████████████████   100.00 % 
+Claude Code              2 mins              █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Mac                      25 mins             █████████████████████████   100.00 % 
+Mac                      2 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 mins (100.0%)
+⏱ AI Coding Time: 2 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 149,650 Input Tokens, 5,345 Output Tokens
+🔤 92,152 Input Tokens, 2,498 Output Tokens
 
-💵 $0.51 Estimated AI Cost This Week
+💵 $0.32 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 10 AI Prompts
+🧠 1 AI Sessions, 6 AI Prompts
 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 2,009 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 1,927 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/10/2026 22:31:43 UTC
+ Last Updated on 28/10/2026 22:47:14 UTC
 <!--END_SECTION:waka-->
 
 ============================================================================
